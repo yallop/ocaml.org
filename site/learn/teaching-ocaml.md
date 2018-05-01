@@ -69,7 +69,7 @@ Please add yours if you don't see it listed!
 1. [University Pierre & Marie Curie](http://www-apr.lip6.fr/~chaillou/Public/enseignement/2014-2015/tas/) - Types and static analysis (5I555)
 1. [University Pierre & Marie Curie](http://www-licence.ufr-info-p6.jussieu.fr/lmd/licence/2014/ue/LI332-2014oct/) - Models of programming and languages interoperability (LI332)
 1. [University of Birmingham](https://sites.google.com/site/focs1112/) - Foundations of Computer Science (FOCS1112)
-1. [University of Cambridge](http://www.cl.cam.ac.uk/teaching/1415/L28/) - Advanced Functional Programming (L28)
+1. [University of Cambridge](http://www.cl.cam.ac.uk/teaching/1718/L28/) - Advanced Functional Programming (L28)
 1. [University of Innsbruck ](http://cl-informatik.uibk.ac.at/teaching/ss06/ocaml/schedule.php) -  Programming in OCAML (SS 06)
 1. [University of Rennes 1](http://etudes.univ-rennes1.fr/masterInformatique/themes/PremiereAnnee/Programme/COMP) - Compilation (COMP)
 1. [University of Rennes 1](http://etudes.univ-rennes1.fr/masterInformatique/themes/PremiereAnnee/Programme/SEM) - Semantics (SEM)
